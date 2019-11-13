@@ -4,23 +4,23 @@ script voor communicatie met de Naald
 
 change trigger for the following lightshows:
 
-1 startup trigger
-2 sparkle
-3 colour on colour dwars
-4 colour on colour recht
-5 test rgb 4 sec
-6 basis
-7 test wit
-8 stop all shows
+1 startup trigger <br>
+2 sparkle <br>
+3 colour on colour dwars <br>
+4 colour on colour recht <br>
+5 test rgb 4 sec <br>
+6 basis <br>
+7 test wit <br>
+8 stop all shows <br>
 
-10 oudjaar
-11 nieuwjaar
-12 caraval
-13 pasen
-14 koninginnedag
-15 bevrijdingsdag
-16 valentijnsdag
-17 sinterklaas
-18 kerst
-20 basisshow
-21 stop all shows
+10 oudjaar <br>
+11 nieuwjaar <br>
+12 caraval <br>
+13 pasen <br>
+14 koninginnedag <br>
+15 bevrijdingsdag <br>
+16 valentijnsdag <br>
+17 sinterklaas <br>
+18 kerst <br>
+20 basisshow <br>
+21 stop all shows 
